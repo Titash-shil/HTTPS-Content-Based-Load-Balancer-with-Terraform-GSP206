@@ -33,7 +33,6 @@ echo https://${EXTERNAL_IP}
 
 ```
 
-* ## Go to `BigQuery` from [here](https://console.cloud.google.com/bigquery?)
 
 # Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
