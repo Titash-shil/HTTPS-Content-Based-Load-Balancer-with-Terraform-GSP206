@@ -1,4 +1,4 @@
-# HTTPS Content-Based Load Balancer with Terraform || [GSP206](https://www.cloudskillsboost.google/games/5416/labs/35111) ||
+# HTTPS Content-Based Load Balancer with Terraform || [GSP206](https://www.cloudskillsboost.google/focuses/1206?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@qwiklabexplorers?si=QGN7mY2Sn9iobmuz) 👍😄🤝
 
